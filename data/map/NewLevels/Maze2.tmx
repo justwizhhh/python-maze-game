@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="31" height="17" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="MainLevelTiles.tsx"/>
+ <layer id="1" name="foreground" width="31" height="17">
+  <properties>
+   <property name="cost" type="int" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzNVe0OwiAM7BRNnF+Zbho/3/8x7RKaHGcB/TEjycW10CsnLbQi0kbsFIcJsYVcjLVMO1ZOTtN7jGsuiqviRvZDEaKvUcwU82iP/mcmzuxO3vWz3gY4cWwUPfCcYb99nOfhcaF+yx1gznwYy9w5G2OQC/k5t8V2oAe/TXOo2Ll44y/l5hHIrunn9bzOy237vtOv+a12Bpo/SVpTNR4v969GqdZ4v+bHXsN57q0azzfn3ZNdO29ez+tKubFH8LtW38GJ8Xq0VGvYk16PsA62MQa5Pqk1jGVu1LaX9D/xzszjwtxLSe/m3H0+SHp/4Bsw+rnXmMfegIX8xzvG+qcC630BZgkO1w==
+  </data>
+ </layer>
+</map>
